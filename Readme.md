@@ -1,22 +1,20 @@
 
-# rauchg
-
-![](https://cldup.com/tBDGZcr8jt.gif)
+# maraoz
 
 ```bash
-$ npm install rauchg
+$ npm install maraoz
 ```
 
 and
 
 ```js
-console.log(require('rauchg'));
+console.log(require('maraoz'));
 ```
 
 To get my contact information.
 
 ## Credits
 
-Thanks to John K Paul for the idea, and this
+Thanks to John K Paul and Guillermo Rauch for the idea, and this
 [tweet](https://twitter.com/RedWolves/status/667848798484324352) for 
 pointing it out!
